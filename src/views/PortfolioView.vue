@@ -25,7 +25,7 @@ export default {
         {
           id: 3,
           name: 'Midnight Sun Design Team',
-          imageUrl: 'sistekdes',
+          imageUrl: 'public/img/resume.PNG',
           status: 'The Midnight Sun Solar Team designs, constructs and races.',
           tech: 'Hardware Engineer, PCB Design',
           github: 'null',
