@@ -18,7 +18,7 @@ const routes = [
     path: '/portfolio',
     name: 'portfolio',
     component: () => import('../views/PortfolioView.vue'),
-    meta: { title: 'Portfolio' }
+    meta: { title: 'Projects' }
   },
   {
     path: '/blog',
@@ -40,7 +40,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-  document.title = to.meta.title + ' - Ruben Rehal'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
+  document.title = to.meta.title + ' - Ruben Rehal';
   next();
 });
 
