@@ -6,19 +6,19 @@ export default {
       tech: [
         {
           id: 1,
-          name: 'HTML',
+          name: 'C++',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
           status: 'Advanced'
         },
         {
           id: 2,
-          name: 'CSS',
+          name: 'VHDL',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
           status: 'Advanced'
         },
         {
           id: 3,
-          name: 'PHP',
+          name: 'Python',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
           status: 'Advanced'
         },
@@ -30,49 +30,49 @@ export default {
         },
         {
           id: 5,
-          name: 'Laravel',
+          name: 'Arduino',
           imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
           status: 'Advance'
         },
         {
           id: 6,
-          name: 'Codeigniter',
+          name: 'Linux',
           imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
           status: 'Intermediate'
         },
         {
           id: 7,
-          name: 'VueJS',
+          name: 'Solidworks',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
           status: 'Intermediate'
         },
         {
           id: 8,
-          name: 'AlpineJS',
+          name: 'AutoCAD',
           imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
           status: 'Beginner'
         },
         {
           id: 9,
-          name: 'NodeJS',
+          name: 'Inventor',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
           status: 'Beginner'
         },
         {
           id: 10,
-          name: 'Tailwind',
+          name: 'PCBs',
           imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
           status: 'Advance'
         },
         {
           id: 11,
-          name: 'Bootstrap',
+          name: 'CPCB Design',
           imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
           status: 'Intermediate'
         },
         {
           id: 12,
-          name: 'ReactJS',
+          name: 'XCode',
           imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
           status: 'Beginner'
         }
