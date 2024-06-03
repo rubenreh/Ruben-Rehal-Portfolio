@@ -34,7 +34,7 @@ export default {
         {
           id: 4,
           name: 'Smart Hydration Assistant',
-          imageUrl: 'hydrate',
+          imageUrl: 'hyrdate',
           status: 'An original wellbeing/health product that tracks a user.',
           tech: 'Digital Logic, C++, Electromagnetism',
           github: 'null',
