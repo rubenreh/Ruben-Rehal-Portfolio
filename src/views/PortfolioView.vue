@@ -26,7 +26,7 @@ export default {
           id: 3,
           name: 'Midnight Sun Design Team',
           imageUrl: 'sistekdes',
-          status: 'The Midnight Sun Solar Team designs, constructs and races a solar powered vehicle every two years, using the engineering principles of design. Our team is currently constructing Midnight Sun XI',
+          status: 'The Midnight Sun Solar Team designs, constructs and races.',
           tech: 'Hardware Engineer, PCB Design',
           github: 'null',
           demo: 'https://www.uwmidsun.com/'
@@ -35,7 +35,7 @@ export default {
           id: 4,
           name: 'Smart Hydration Assistant',
           imageUrl: 'bumdesma',
-          status: 'An original wellbeing/health product that tracks a user''s water intake and communicates their results by using several distance, temperature and light sensors',
+          status: 'An original wellbeing/health product that tracks a user.',
           tech: 'Digital Logic, C++, Electromagnetism',
           github: 'null',
           demo: 'null'
@@ -44,7 +44,7 @@ export default {
           id: 5,
           name: 'TMMC',
           imageUrl: 'sp2se',
-          status: 'Our team of four participated in a two-day mechanical design innovation challenge to create a chain-powered drive system with a bionic arm for automating the manual sticker application process at the TMMC manufacturing plant. Using Solidworks CAD software, LEGOEV3, and Tetrix components, we designed, engineered, and programmed a system incorporating ultrasonic and color sensors to efficiently extract and apply stickers.',
+          status: 'Our team of four participated in a two-day mechanical.',
           tech: 'Robotic Control, C, Inventor',
           github: 'null',
           demo: 'null'
