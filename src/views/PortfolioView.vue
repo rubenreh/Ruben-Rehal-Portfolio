@@ -15,12 +15,12 @@ export default {
         },
         {
           id: 2,
-          name: 'Sahabat Muslim',
+          name: 'My Resume',
           imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          status: 'Check out my resume!',
+          tech: '',
+          github: 'null',
+          demo: 'https://docs.google.com/document/d/1WEnOjMuyFBfglrqlcY3vK048rXXe4ypv8ZrujQhuO9Q/edit?usp=sharing'
         },
         {
           id: 3,
