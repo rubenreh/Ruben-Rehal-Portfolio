@@ -18,34 +18,34 @@ export default {
           name: 'My Resume',
           imageUrl: 'sahabatmuslim',
           status: 'Check out my resume!',
-          tech: '',
+          tech: 'LaTeX Editor',
           github: 'null',
           demo: 'https://docs.google.com/document/d/1WEnOjMuyFBfglrqlcY3vK048rXXe4ypv8ZrujQhuO9Q/edit?usp=sharing'
         },
         {
           id: 3,
-          name: 'SISTEKDES',
+          name: 'Midnight Sun Design Team',
           imageUrl: 'sistekdes',
-          status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
-          tech: 'Laravel 9, Bootstrap',
+          status: 'The Midnight Sun Solar Team designs, constructs and races a solar powered vehicle every two years, using the engineering principles of design. Our team is currently constructing Midnight Sun XI',
+          tech: 'Hardware Engineer, PCB Design',
           github: 'null',
-          demo: 'null'
+          demo: 'https://www.uwmidsun.com/'
         },
         {
           id: 4,
-          name: 'Bumdesma',
+          name: 'Smart Hydration Assistant',
           imageUrl: 'bumdesma',
-          status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
-          tech: 'Laravel 8, Bootstrap',
+          status: 'An original wellbeing/health product that tracks a user''s water intake and communicates their results by using several distance, temperature and light sensors',
+          tech: 'Digital Logic, C++, Electromagnetism',
           github: 'null',
           demo: 'null'
         },
         {
           id: 5,
-          name: 'SP2SE',
+          name: 'TMMC',
           imageUrl: 'sp2se',
-          status: 'Sistem Percepatan Pelayanan Surat Elektronik, A web application to manage letters in the village.',
-          tech: 'Codeigniter 3, Bootstrap',
+          status: 'Our team of four participated in a two-day mechanical design innovation challenge to create a chain-powered drive system with a bionic arm for automating the manual sticker application process at the TMMC manufacturing plant. Using Solidworks CAD software, LEGOEV3, and Tetrix components, we designed, engineered, and programmed a system incorporating ultrasonic and color sensors to efficiently extract and apply stickers.',
+          tech: 'Robotic Control, C, Inventor',
           github: 'null',
           demo: 'null'
         }
