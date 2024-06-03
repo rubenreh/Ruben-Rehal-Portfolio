@@ -8,10 +8,10 @@ export default {
           id: 1,
           name: 'Personal Website',
           imageUrl: 'portfolio_v2',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
+          tech: 'Netlify, GitHub',
+          github: 'https://github.com/rubenreh',
+          demo: 'https://rubenrehal.netlify.app/'
         },
         {
           id: 2,
