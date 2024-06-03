@@ -12,95 +12,95 @@ export default {
         },
         {
           id: 2,
-          name: 'VHDL',
+          name: 'Java',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
           status: 'Advanced'
         },
         {
           id: 3,
-          name: 'Python',
+          name: 'VHDL',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
           status: 'Advanced'
         },
         {
           id: 4,
-          name: 'Javascript',
+          name: 'Arduino',
           imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
-          status: 'Advance'
+          status: 'Advanced'
         },
         {
           id: 5,
-          name: 'Arduino',
+          name: 'C',
           imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
-          status: 'Advance'
-        },
-        {
-          id: 6,
-          name: 'Linux',
-          imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
           status: 'Intermediate'
         },
         {
+          id: 6,
+          name: 'PCB Design',
+          imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
+          status: 'Advanced'
+        },
+        {
           id: 7,
-          name: 'Solidworks',
+          name: 'Python',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
           status: 'Intermediate'
         },
         {
           id: 8,
-          name: 'AutoCAD',
+          name: 'XCode',
           imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
-          status: 'Beginner'
-        },
-        {
-          id: 9,
-          name: 'Inventor',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
-          status: 'Beginner'
-        },
-        {
-          id: 10,
-          name: 'PCBs',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
-          status: 'Advance'
-        },
-        {
-          id: 11,
-          name: 'C',
-          imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
           status: 'Intermediate'
         },
         {
-          id: 12,
-          name: 'XCode',
-          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
+          id: 9,
+          name: 'Linux',
+          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
+          status: 'Intermediate'
+        },
+        {
+          id: 10,
+          name: 'HTML',
+          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
+          status: 'Intermediate'
+        },
+        {
+          id: 11,
+          name: 'Rachet',
+          imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
           status: 'Beginner'
+        },
+        {
+          id: 12,
+          name: 'Windows',
+          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
+          status: 'Advanced'
         }
       ],
       tools: [
         {
           id: 1,
-          name: 'Git',
+          name: 'Solidworks',
           imageUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
-          status: 'Version Control'
+          status: 'Advanced'
         },
         {
           id: 2,
           name: 'GitHub',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
-          status: 'Git Hosting'
+          status: 'Intermediate'
         },
         {
           id: 3,
-          name: 'NPM',
+          name: 'Inventor',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
-          status: 'Package Manager'
+          status: 'Advanced'
         },
         {
           id: 4,
-          name: 'MySQL',
+          name: 'KiCad',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
-          status: 'Database'
+          status: 'Advanced'
         },
       ]
     };
