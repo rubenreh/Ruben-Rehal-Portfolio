@@ -6,7 +6,7 @@
       <h1 class="text-4xl font-bold md:text-5xl text-white fadein-up">Ruben Rehal</h1>
       <div class="py-2">
         <h1
-          class="typewrite text-xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-blue-500 md:text-2xl fadein-up"
+          class="typewrite text-xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-green-500 md:text-2xl fadein-up"
           ref="typewriter">
           <span class="wrap">{{ txt }}</span>
         </h1>
@@ -25,7 +25,7 @@
         </svg>Download Resume</button> -->
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-blue-200 pict" src="https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/StandingStage.PNG?raw=true">
+        class="w-10/12 md:h-auto rounded-full border-4 border-green-200 pict" src="https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/StandingStage.PNG?raw=true">
     </div>
   </main>
 </template>
