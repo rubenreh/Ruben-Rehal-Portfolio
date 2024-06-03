@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'My Resume',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/resume.PNG?raw=true',
+          imageUrl: 'sistekdes',
           status: 'Check out my resume!',
           tech: 'LaTeX Editor',
           github: 'null',
