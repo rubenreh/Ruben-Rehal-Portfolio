@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: 'resume',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/1dfa4d99ac5e5f8803a41aabfd9cd8436c9d78a7/public/img/portfolio-portfolio_v2.png?raw=true',
           status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
           tech: 'Netlify, GitHub',
           github: 'https://github.com/rubenreh',
