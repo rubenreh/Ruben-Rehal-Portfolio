@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: 'websi2',
+          imageUrl: 'websi3',
           status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
           tech: 'Netlify, GitHub',
           github: 'https://github.com/rubenreh',
