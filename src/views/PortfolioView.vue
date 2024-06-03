@@ -29,7 +29,7 @@ export default {
           status: 'The Midnight Sun Solar Team designs, constructs and races.',
           tech: 'Hardware Engineer, PCB Design',
           github: 'null',
-          demo: 'https://www.uwmidsun.com/'
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/midnight-sun-design-team?authuser=0'
         },
         {
           id: 4,
@@ -38,7 +38,7 @@ export default {
           status: 'An original wellbeing/health product that tracks a user.',
           tech: 'Digital Logic, C++, Electromagnetism',
           github: 'null',
-          demo: 'null'
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/smart-hydration-assistant?authuser=0'
         },
         {
           id: 5,
@@ -47,7 +47,7 @@ export default {
           status: 'Our team of four participated in a two-day mechanical.',
           tech: 'Robotic Control, C, Inventor',
           github: 'null',
-          demo: 'null'
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/tmmc-competition?authuser=0'
         }
       ]
     };
