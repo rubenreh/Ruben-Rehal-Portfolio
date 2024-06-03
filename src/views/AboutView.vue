@@ -81,7 +81,7 @@ export default {
         {
           id: 1,
           name: 'Solidworks',
-          imageUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/solidworks.PNG?raw=true',
           status: 'Advanced'
         },
         {
@@ -93,13 +93,13 @@ export default {
         {
           id: 3,
           name: 'Inventor',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/inventor.PNG?raw=true',
           status: 'Advanced'
         },
         {
           id: 4,
           name: 'KiCad',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
           status: 'Advanced'
         },
       ]
