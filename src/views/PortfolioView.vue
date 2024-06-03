@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/1dfa4d99ac5e5f8803a41aabfd9cd8436c9d78a7/public/img/portfolio-portfolio_v2.png?raw=true',
+          imageUrl: 'websi',
           status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
           tech: 'Netlify, GitHub',
           github: 'https://github.com/rubenreh',
@@ -25,7 +25,7 @@ export default {
         {
           id: 3,
           name: 'Midnight Sun Design Team',
-          imageUrl: 'public/img/resume.PNG',
+          imageUrl: 'midsun',
           status: 'The Midnight Sun Solar Team designs, constructs and races.',
           tech: 'Hardware Engineer, PCB Design',
           github: 'null',
@@ -34,7 +34,7 @@ export default {
         {
           id: 4,
           name: 'Smart Hydration Assistant',
-          imageUrl: 'bumdesma',
+          imageUrl: 'hydrate',
           status: 'An original wellbeing/health product that tracks a user.',
           tech: 'Digital Logic, C++, Electromagnetism',
           github: 'null',
