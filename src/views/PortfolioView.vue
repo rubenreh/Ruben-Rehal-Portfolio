@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'TMMC',
-          imageUrl: 'sp2se',
+          imageUrl: 'tmmc',
           status: 'Our team of four participated in a two-day mechanical.',
           tech: 'Robotic Control, C, Inventor',
           github: 'null',
