@@ -49,31 +49,31 @@ export default {
         {
           id: 8,
           name: 'Linux',
-          imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/linux.PNG?raw=true',
           status: 'Intermediate'
         },
         {
           id: 9,
           name: 'HTML',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/html.PNG?raw=true',
           status: 'Intermediate'
         },
         {
           id: 10,
           name: 'Circuit Design',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/circuit.PNG?raw=true',
           status: 'Intermediate'
         },
         {
           id: 11,
-          name: 'Rachet',
-          imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
+          name: 'Racket',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/racket.PNG?raw=true',
           status: 'Beginner'
         },
         {
           id: 12,
           name: 'Windows',
-          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/windows.PNG?raw=true',
           status: 'Advanced'
         }
       ],
