@@ -6,7 +6,7 @@ ts<template>
     <nav class="max-w-7xl px-5 md:fixed top-0 z-[98] w-screen backdrop-blur-md bg-[#121212] bg-opacity-80">
       <div class="container mx-auto flex flex-wrap items-center justify-between">
         <button @click="redirectToHome" class="flex">
-          <span class="self-center text-lg text-[#DCA052] font-semibold whitespace-nowrap fadein-bot hover:text-white-100">Ruben Rehal</span>
+          <span class="self-center text-lg text-[#DCA052] font-semibold whitespace-nowrap fadein-bot hover:text-white-100">𝑴𝒚 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐</span>
         </button>
         <div class="flex md:order-2 fadein-bot">
           <a href="https://github.com/rubenrehal"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
