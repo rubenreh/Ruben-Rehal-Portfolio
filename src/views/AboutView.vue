@@ -159,11 +159,11 @@ export default {
           <ul class="flex flex-wrap text-sm font-medium text-center text-gray-500 dark:text-gray-400 mb-5">
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-green-200 bg-green-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Technical</button>
+                :class="{ 'text-orange-200 bg-orange-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Technical</button>
             </li>
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-green-200 bg-green-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Tools</button>
+                :class="{ 'text-orange-200 bg-orange-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Tools</button>
             </li>
           </ul>
         </div>
