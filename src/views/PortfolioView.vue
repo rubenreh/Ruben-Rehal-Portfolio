@@ -20,8 +20,7 @@ export default {
           status: 'Check out my resume!\n',
           tech: 'LaTeX Editor',
           github: 'null',
-          demo: 'https://docs.google.com/document/d/1WEnOjMuyFBfglrqlcY3vK048rXXe4ypv8ZrujQhuO9Q/edit?usp=sharing',
-          demo: 'https://docs.google.com/document/d/1WEnOjMuyFBfglrqlcY3vK048rXXe4ypv8ZrujQhuO9Q/edit?usp=sharing'
+          demo: 'https://drive.google.com/file/d/1HaUjksddc_sgUxgMPjPX1XEt8ahWdQZ-/view?usp=sharing'
         },
         {
           id: 3,
@@ -38,7 +37,7 @@ export default {
           imageUrl: 'hyrdate',
           status: 'An original wellbeing/health product that tracks a user.',
           tech: 'Digital Logic, C++, Electromagnetism',
-          github: 'null',
+          github: 'https://drive.google.com/file/d/10kFqNJnurFl_qJkXdIQpG7X4TmP6q_WL/view?usp=sharing',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/smart-hydration-assistant?authuser=0'
         },
         {
