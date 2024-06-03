@@ -128,15 +128,16 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; I am a first year Computer Engineering student at the University of Waterloo with 
-            a passion for sports, technology and athletics. I currently balance my education with numerous extracurriculars. Feel free to reach out with any questions!
+            &nbsp; &nbsp; &nbsp; I am a first-year Computer Engineering student at the University 
+            of Waterloo with a passion for technology, sports, and athletics. Balancing 
+            my education with numerous extracurriculars, I actively engage in projects 
+            and activities that enhance my skills and knowledge
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; I have a passion for sports, technology, and athletics, and I balance my education 
-            with numerous extracurriculars. I am currently a Hardware Engineer at Midnight Sun Solar Rayce Car Team, 
-            a student-run engineering project that designs, manufactures, and races solar-powered vehicles. 
-            I have developed skills in Microsoft Excel Macros, SOLIDWORKS, and Robot Control through my education 
-            and work experiences. Feel free to reach out with any questions!
+            &nbsp; &nbsp; &nbsp; Seasonally, I work as a Hardware Engineer at the Midnight Sun Solar 
+            Rayce Car Team, where we design, manufacture, and race solar-powered vehicles. Through 
+            my education and work experiences, I have developed proficiency in Microsoft Excel Macros, 
+            SOLIDWORKS, and Robot Control. Feel free to reach out with any questions!
           </p>
         </div>
 
