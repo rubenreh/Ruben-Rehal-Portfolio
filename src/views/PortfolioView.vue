@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'My Resume',
-          imageUrl: 'resume.PNG',
+          imageUrl: 'resume',
           status: 'Check out my resume!',
           tech: 'LaTeX Editor',
           github: 'null',
