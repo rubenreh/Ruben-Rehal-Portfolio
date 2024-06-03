@@ -20,6 +20,7 @@ export default {
           status: 'Check out my resume!\n',
           tech: 'LaTeX Editor',
           github: 'null',
+          demo: 'https://docs.google.com/document/d/1WEnOjMuyFBfglrqlcY3vK048rXXe4ypv8ZrujQhuO9Q/edit?usp=sharing',
           demo: 'https://docs.google.com/document/d/1WEnOjMuyFBfglrqlcY3vK048rXXe4ypv8ZrujQhuO9Q/edit?usp=sharing'
         },
         {
