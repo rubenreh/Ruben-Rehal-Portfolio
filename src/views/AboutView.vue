@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'C++',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/OnStage.PNG?raw=true',
           status: 'Advanced'
         },
         {
