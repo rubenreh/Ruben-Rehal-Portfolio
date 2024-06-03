@@ -128,18 +128,15 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
-            aesthetic value
+            &nbsp; &nbsp; &nbsp; I am a first year Computer Engineering student at the University of Waterloo with 
+            a passion for sports, technology and athletics. I currently balance my education with numerous extracurriculars. Feel free to reach out with any questions!
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; I have a passion for sports, technology, and athletics, and I balance my education 
+            with numerous extracurriculars. I am currently a Hardware Engineer at Midnight Sun Solar Rayce Car Team, 
+            a student-run engineering project that designs, manufactures, and races solar-powered vehicles. 
+            I have developed skills in Microsoft Excel Macros, SOLIDWORKS, and Robot Control through my education 
+            and work experiences. Feel free to reach out with any questions!
           </p>
         </div>
 
