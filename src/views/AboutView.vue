@@ -48,19 +48,19 @@ export default {
         },
         {
           id: 8,
-          name: 'XCode',
+          name: 'Linux',
           imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
           status: 'Intermediate'
         },
         {
           id: 9,
-          name: 'Linux',
+          name: 'HTML',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
           status: 'Intermediate'
         },
         {
           id: 10,
-          name: 'HTML',
+          name: 'Circuit Design',
           imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
           status: 'Intermediate'
         },
