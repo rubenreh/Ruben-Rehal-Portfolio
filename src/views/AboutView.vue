@@ -7,43 +7,43 @@ export default {
         {
           id: 1,
           name: 'C++',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/OnStage.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/C++.PNG?raw=true',
           status: 'Advanced'
         },
         {
           id: 2,
           name: 'Java',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/Java.PNG?raw=true',
           status: 'Advanced'
         },
         {
           id: 3,
           name: 'VHDL',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/VHDL.PNG?raw=true',
           status: 'Advanced'
         },
         {
           id: 4,
           name: 'Arduino',
-          imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/arduino.PNG?raw=true',
           status: 'Advanced'
         },
         {
           id: 5,
           name: 'C',
-          imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/C.PNG?raw=true',
           status: 'Intermediate'
         },
         {
           id: 6,
           name: 'PCB Design',
-          imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/PCB.PNG?raw=true',
           status: 'Advanced'
         },
         {
           id: 7,
           name: 'Python',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/python.PNG?raw=true',
           status: 'Intermediate'
         },
         {
