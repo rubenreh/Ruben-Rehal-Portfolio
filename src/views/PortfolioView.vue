@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: 'portfolio_v2',
+          imageUrl: 'resume',
           status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
           tech: 'Netlify, GitHub',
           github: 'https://github.com/rubenreh',
@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'My Resume',
-          imageUrl: 'resume',
+          imageUrl: 'portfolio_v2',
           status: 'Check out my resume!',
           tech: 'LaTeX Editor',
           github: 'null',
