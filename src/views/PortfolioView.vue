@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: 'websi',
+          imageUrl: 'websi2',
           status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
           tech: 'Netlify, GitHub',
           github: 'https://github.com/rubenreh',
@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'My Resume',
-          imageUrl: 'resume',
+          imageUrl: 'resume2',
           status: 'Check out my resume!',
           tech: 'LaTeX Editor',
           github: 'null',
@@ -25,7 +25,7 @@ export default {
         {
           id: 3,
           name: 'Midnight Sun Design Team',
-          imageUrl: 'midsun',
+          imageUrl: 'midsun2',
           status: 'The Midnight Sun Solar Team designs, constructs and races.',
           tech: 'Hardware Engineer, PCB Design',
           github: 'null',
@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'TMMC',
-          imageUrl: 'tmmc',
+          imageUrl: 'tmmc2',
           status: 'Our team of four participated in a two-day mechanical.',
           tech: 'Robotic Control, C, Inventor',
           github: 'null',
