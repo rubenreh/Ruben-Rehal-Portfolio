@@ -66,7 +66,7 @@ export default {
         },
         {
           id: 11,
-          name: 'CPCB Design',
+          name: 'C',
           imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
           status: 'Intermediate'
         },
