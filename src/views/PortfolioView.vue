@@ -45,7 +45,7 @@ export default {
           name: 'Electric Vehicle Engineering',
           imageUrl: 'websi3',
           status: 'I lead a student-run electric vehicle team designing, fundraising, and racing fully electric vehicles.',
-          tech: 'Eng Design, PCB Design, Motor Control, CAD',
+          tech: 'Eng Design, CAD Design, Motor Control',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/electric-vehicle-engineering-team?authuser=0'
         },
