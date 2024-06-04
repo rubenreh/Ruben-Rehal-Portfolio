@@ -33,15 +33,6 @@ export default {
         },
         {
           id: 4,
-          name: 'Smart Hydration Assistant',
-          imageUrl: 'hyrdate',
-          status: 'This project is a water bottle smart device that is designed to ensure that users are consuming consistent and sufficient water levels per day.',
-          tech: 'Digital Logic, C++, Electromagnetism',
-          github: 'https://drive.google.com/file/d/10kFqNJnurFl_qJkXdIQpG7X4TmP6q_WL/view?usp=sharing',
-          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/smart-hydration-assistant?authuser=0'
-        },
-        {
-          id: 5,
           name: 'TMMC',
           imageUrl: 'tmmc2',
           status: 'Our team designed a chain-powered system with a bionic arm to automate sticker application in a manufacturing plant.',
@@ -50,31 +41,40 @@ export default {
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/tmmc-competition?authuser=0'
         },
         {
-          id: 6,
-          name: 'Personal Website',
+          id: 5,
+          name: 'Electric Vehicle Engineering',
           imageUrl: 'websi3',
-          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
-          tech: 'Netlify, GitHub',
-          github: 'https://github.com/rubenreh',
-          demo: 'https://rubenrehal.netlify.app/'
+          status: 'I lead a student-run electric vehicle team designing, fundraising, and racing fully electric vehicles.',
+          tech: 'Eng Design, PCB Design, Motor Control, CAD',
+          github: 'null',
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/electric-vehicle-engineering-team?authuser=0'
+        },
+        {
+          id: 6,
+          name: 'Arduino Projects',
+          imageUrl: 'websi3',
+          status: 'I work on various projects (parallel and individual) using Arduinos and ArduinoIDE. Most of my projects are coded in C.',
+          tech: 'Circuit Design, CAD Design, C',
+          github: 'null',
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/arduino-projects?authuser=0'
         },
         {
           id: 7,
-          name: 'Personal Website',
-          imageUrl: 'websi3',
-          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
-          tech: 'Netlify, GitHub',
-          github: 'https://github.com/rubenreh',
-          demo: 'https://rubenrehal.netlify.app/'
+          name: 'Smart Hydration Assistant',
+          imageUrl: 'hyrdate',
+          status: 'This project is a water bottle smart device that is designed to ensure that users are consuming consistent and sufficient water levels per day.',
+          tech: 'Digital Logic, C++, Electromagnetism',
+          github: 'https://drive.google.com/file/d/10kFqNJnurFl_qJkXdIQpG7X4TmP6q_WL/view?usp=sharing',
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/smart-hydration-assistant?authuser=0'
         },
         {
           id: 8,
-          name: 'Personal Website',
+          name: 'Programming Projects',
           imageUrl: 'websi3',
-          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
-          tech: 'Netlify, GitHub',
-          github: 'https://github.com/rubenreh',
-          demo: 'https://rubenrehal.netlify.app/'
+          status: 'Nearly 3+ years of programming experience with C++, C, Java and Python (parallel and individual).',
+          tech: 'C++, Java, C',
+          github: 'null',
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/programming-projects?authuser=0'
         },
         {
           id: 9,
