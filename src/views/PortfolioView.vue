@@ -26,7 +26,7 @@ export default {
           id: 3,
           name: 'Midnight Sun Design Team',
           imageUrl: 'midsun2',
-          status: 'The Midnight Sun Solar Team designs, constructs and races.',
+          status: 'The Midnight Sun team designs and races solar-powered vehicles. My role focused on electrical systems and PCB design.',
           tech: 'Hardware Engineer, PCB Design',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/midnight-sun-design-team?authuser=0'
@@ -35,7 +35,7 @@ export default {
           id: 4,
           name: 'Smart Hydration Assistant',
           imageUrl: 'hyrdate',
-          status: 'An original wellbeing/health product that tracks a user.',
+          status: 'This project is a water bottle smart device that is designed to ensure that users are consuming consistent and sufficient water levels per day.',
           tech: 'Digital Logic, C++, Electromagnetism',
           github: 'https://drive.google.com/file/d/10kFqNJnurFl_qJkXdIQpG7X4TmP6q_WL/view?usp=sharing',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/smart-hydration-assistant?authuser=0'
@@ -44,7 +44,7 @@ export default {
           id: 5,
           name: 'TMMC',
           imageUrl: 'tmmc2',
-          status: 'Our team of four participated in a two-day mechanical.',
+          status: 'Our team designed a chain-powered system with a bionic arm to automate sticker application in a manufacturing plant.',
           tech: 'Robotic Control, C, Inventor',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/tmmc-competition?authuser=0'
