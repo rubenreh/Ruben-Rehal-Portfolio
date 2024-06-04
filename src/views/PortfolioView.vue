@@ -15,42 +15,6 @@ export default {
         },
         {
           id: 2,
-          name: 'Personal Website',
-          imageUrl: 'websi3',
-          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
-          tech: 'Netlify, GitHub',
-          github: 'https://github.com/rubenreh',
-          demo: 'https://rubenrehal.netlify.app/'
-        },
-        {
-          id: 3,
-          name: 'Personal Website',
-          imageUrl: 'websi3',
-          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
-          tech: 'Netlify, GitHub',
-          github: 'https://github.com/rubenreh',
-          demo: 'https://rubenrehal.netlify.app/'
-        },
-        {
-          id: 4,
-          name: 'Personal Website',
-          imageUrl: 'websi3',
-          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
-          tech: 'Netlify, GitHub',
-          github: 'https://github.com/rubenreh',
-          demo: 'https://rubenrehal.netlify.app/'
-        },
-        {
-          id: 5,
-          name: 'Personal Website',
-          imageUrl: 'websi3',
-          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
-          tech: 'Netlify, GitHub',
-          github: 'https://github.com/rubenreh',
-          demo: 'https://rubenrehal.netlify.app/'
-        },
-        {
-          id: 6,
           name: 'My Resume',
           imageUrl: 'resume2',
           status: 'Check out my resume!\n',
@@ -59,7 +23,7 @@ export default {
           demo: 'https://drive.google.com/file/d/1HaUjksddc_sgUxgMPjPX1XEt8ahWdQZ-/view?usp=sharing'
         },
         {
-          id: 7,
+          id: 3,
           name: 'Midnight Sun Design Team',
           imageUrl: 'midsun2',
           status: 'The Midnight Sun team designs and races solar-powered vehicles. My role focused on electrical systems and PCB design.',
@@ -68,13 +32,49 @@ export default {
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/midnight-sun-design-team?authuser=0'
         },
         {
-          id: 8,
+          id: 4,
           name: 'Smart Hydration Assistant',
           imageUrl: 'hyrdate',
           status: 'This project is a water bottle smart device that is designed to ensure that users are consuming consistent and sufficient water levels per day.',
           tech: 'Digital Logic, C++, Electromagnetism',
           github: 'https://drive.google.com/file/d/10kFqNJnurFl_qJkXdIQpG7X4TmP6q_WL/view?usp=sharing',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/smart-hydration-assistant?authuser=0'
+        },
+        {
+          id: 5,
+          name: 'TMMC',
+          imageUrl: 'tmmc2',
+          status: 'Our team designed a chain-powered system with a bionic arm to automate sticker application in a manufacturing plant.',
+          tech: 'Robotic Control, C, Inventor',
+          github: 'null',
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/tmmc-competition?authuser=0'
+        },
+        {
+          id: 6,
+          name: 'Personal Website',
+          imageUrl: 'websi3',
+          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
+          tech: 'Netlify, GitHub',
+          github: 'https://github.com/rubenreh',
+          demo: 'https://rubenrehal.netlify.app/'
+        },
+        {
+          id: 7,
+          name: 'Personal Website',
+          imageUrl: 'websi3',
+          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
+          tech: 'Netlify, GitHub',
+          github: 'https://github.com/rubenreh',
+          demo: 'https://rubenrehal.netlify.app/'
+        },
+        {
+          id: 8,
+          name: 'Personal Website',
+          imageUrl: 'websi3',
+          status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
+          tech: 'Netlify, GitHub',
+          github: 'https://github.com/rubenreh',
+          demo: 'https://rubenrehal.netlify.app/'
         },
         {
           id: 9,
