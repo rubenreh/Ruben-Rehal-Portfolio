@@ -75,15 +75,6 @@ export default {
           tech: 'C++, Java, C',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/programming-projects?authuser=0'
-        },
-        {
-          id: 9,
-          name: 'TMMC',
-          imageUrl: 'tmmc2',
-          status: 'Our team designed a chain-powered system with a bionic arm to automate sticker application in a manufacturing plant.',
-          tech: 'Robotic Control, C, Inventor',
-          github: 'null',
-          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/tmmc-competition?authuser=0'
         }
       ]
     };
