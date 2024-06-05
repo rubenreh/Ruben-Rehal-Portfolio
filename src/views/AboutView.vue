@@ -129,7 +129,8 @@ export default {
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; I am a Computer Engineering student at the University of Waterloo,recognized 
-            for my academic and extracurricularexcellence through the President's Scholarship and the Jack 
+            for my academic and extracurricular
+            excellence through the President's Scholarship and the Jack 
             and Mary Burnett Scholarship. I am on track to graduate in 2028 with a Bachelor of Applied Science degree.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
