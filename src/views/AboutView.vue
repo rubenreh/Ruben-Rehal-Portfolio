@@ -128,16 +128,17 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; I am a first-year Computer Engineering student at the University 
-            of Waterloo with a passion for technology, sports, and athletics. Balancing 
-            my education with numerous extracurriculars, I actively engage in projects 
-            and activities that enhance my skills and knowledge
+            &nbsp; &nbsp; &nbsp; I am a Computer Engineering student at the University of Waterloo,recognized 
+            for my academic and extracurricular excellence through the President's Scholarship and the Jack 
+            and Mary Burnett Scholarship. I am on track to graduate in 2028 with a Bachelor of Applied Science degree.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; Seasonally, I work as a Hardware Engineer at the Midnight Sun Solar 
-            Rayce Car Team, where we design, manufacture, and race solar-powered vehicles. Through 
-            my education and work experiences, I have developed proficiency in Microsoft Excel Macros, 
-            SOLIDWORKS, and Robot Control. Feel free to reach out with any questions!
+            &nbsp; &nbsp; &nbsp; My passion for sports, technology, and athletics drives me to balance my 
+            rigorous education with a variety of extracurricular activities. Currently, I am a Hardware 
+            Engineer with the Midnight Sun Solar Rayce Car Team, a student-run project 
+            dedicated to designing, manufacturing, and racing solar-powered vehicles. 
+            This experience fuels my enthusiasm for sustainable technology and innovation. 
+            Feel free to reach out with any questions!
           </p>
         </div>
 
