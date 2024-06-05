@@ -102,6 +102,54 @@ export default {
           imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
           status: 'Advanced'
         },
+        {
+          id: 5,
+          name: 'AutoCAD',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          status: 'Advanced'
+        },
+        {
+          id: 6,
+          name: 'XCode',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          status: 'Intermediate'
+        },
+        {
+          id: 7,
+          name: 'KiCad',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          status: 'Advanced'
+        },
+        {
+          id: 8,
+          name: 'Arduino IDE',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/arduinoicon.png?raw=true',
+          status: 'Advanced'
+        },
+        {
+          id: 9,
+          name: 'mockAPI',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          status: 'Intermediate'
+        },
+        {
+          id: 10,
+          name: 'Altium Designer',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          status: 'Intermediate'
+        },
+        {
+          id: 11,
+          name: 'Windows',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/windowsicon.png?raw=true',
+          status: 'Advanced'
+        },
+        {
+          id: 12,
+          name: 'Linux',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/linuxicon.png?raw=true',
+          status: 'Intermediate'
+        }
       ]
     };
   }
