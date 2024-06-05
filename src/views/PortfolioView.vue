@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'Electric Vehicle Engineering',
-          imageUrl: 'wall',
+          imageUrl: 'websi3',
           status: 'I lead a student-run electric vehicle team designing, fundraising, and racing fully electric vehicles.',
           tech: 'Eng Design, CAD Design, Motor Control',
           github: 'null',
@@ -52,7 +52,7 @@ export default {
         {
           id: 6,
           name: 'Arduino Projects',
-          imageUrl: 'websi3',
+          imageUrl: 'wall',
           status: 'I work on various projects (parallel and individual) using Arduinos and ArduinoIDE. Most of my projects are coded in C.',
           tech: 'Circuit Design, CAD Design, C',
           github: 'null',
