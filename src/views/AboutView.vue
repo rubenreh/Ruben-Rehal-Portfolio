@@ -13,67 +13,67 @@ export default {
         {
           id: 2,
           name: 'Java',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/Java.PNG?raw=true',
+          imageUrl: 'https://raw.githubusercontent.com/rubenreh/Ruben-Rehal-Portfolio/main/public/img/javaicon.webp',
           status: 'Advanced'
         },
         {
           id: 3,
           name: 'VHDL',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/VHDL.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/vhdlicon.png?raw=true',
           status: 'Advanced'
         },
         {
           id: 4,
           name: 'Arduino',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/arduino.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/arduinoicon.png?raw=true',
           status: 'Advanced'
         },
         {
           id: 5,
           name: 'C',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/C.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/Cicon.png?raw=true',
           status: 'Intermediate'
         },
         {
           id: 6,
           name: 'PCB Design',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/PCB.PNG?raw=true',
+          imageUrl: 'https://raw.githubusercontent.com/rubenreh/Ruben-Rehal-Portfolio/main/public/img/pcbicon.webp',
           status: 'Advanced'
         },
         {
           id: 7,
           name: 'Python',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/python.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/pythonicon.png?raw=true',
           status: 'Intermediate'
         },
         {
           id: 8,
           name: 'Linux',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/linux.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/linuxicon.png?raw=true',
           status: 'Intermediate'
         },
         {
           id: 9,
           name: 'HTML',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/html.PNG?raw=true',
+          imageUrl: 'https://raw.githubusercontent.com/rubenreh/Ruben-Rehal-Portfolio/main/public/img/htmlicon.webp',
           status: 'Intermediate'
         },
         {
           id: 10,
           name: 'Circuit Design',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/circuit.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/circuiticon.png?raw=true',
           status: 'Intermediate'
         },
         {
           id: 11,
           name: 'Racket',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/racket.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/racketicon.png?raw=true',
           status: 'Beginner'
         },
         {
           id: 12,
           name: 'Windows',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/windows.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/windowsicon.png?raw=true',
           status: 'Advanced'
         }
       ],
