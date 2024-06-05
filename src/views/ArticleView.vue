@@ -38,7 +38,7 @@ export default {
     methods: {
         async getDetails() {
             const id = this.route.params.id;
-            axios.get('https://665f887f5425580055b00a73.mockapi.io/updates/' + id)
+            axios.get('https://665f887f5425580055b00a73.mockapi.io/updates/' + id) //this is under ruben.rehal@gmail.com
                 .then(response => {
                     this.title = response.data.title;
                     this.image = response.data.image;
