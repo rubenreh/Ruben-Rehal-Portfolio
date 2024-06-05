@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'Electric Vehicle Engineering',
-          imageUrl: 'websi3',
+          imageUrl: 'wall',
           status: 'I lead a student-run electric vehicle team designing, fundraising, and racing fully electric vehicles.',
           tech: 'Eng Design, CAD Design, Motor Control',
           github: 'null',
