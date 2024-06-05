@@ -17,7 +17,7 @@ export default {
           id: 2,
           name: 'My Resume',
           imageUrl: 'newresume',
-          status: 'Check out my resume!\n',
+          status: 'I am a passionate and driven Computer Engineering student at the University of Waterloo. Check out my resume!',
           tech: 'LaTeX Editor',
           github: 'null',
           demo: 'https://drive.google.com/file/d/1iklTEJPGOxhpX2dRcPoWTCDYvSm_DHFq/view?usp=sharing'
