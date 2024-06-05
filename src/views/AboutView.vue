@@ -128,18 +128,15 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; I am a Computer Engineering student at the University of Waterloo,recognized 
-            for my academic and extracurricular
-            excellence through the President's Scholarship and the Jack 
-            and Mary Burnett Scholarship. I am on track to graduate in 2028 with a Bachelor of Applied Science degree.
+            &nbsp; &nbsp; &nbsp; Hey there! My name is Ruben Rehal and I am currently a Computer Engineering Student at the
+            University of Waterloo. Where I recieved the Presidents and Mary and Jack Burnett Scholarship. I am on track to
+            graduate in 2028 with a Bachelor of Applied Science degree.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My passion for sports, technology, and athletics drives me to balance my 
-            rigorous education with a variety of extracurricular activities. Currently, I am a Hardware 
-            Engineer with the Midnight Sun Solar Rayce Car Team, a student-run project 
-            dedicated to designing, manufacturing, and racing solar-powered vehicles. 
-            This experience fuels my enthusiasm for sustainable technology and innovation. 
-            Feel free to reach out with any questions!
+            &nbsp; &nbsp; &nbsp; My passion for sports, technology, and athletics drives me to balance
+            my education with various extracurriculars. As a Hardware Engineer with the Midnight Sun Solar
+            Rayce Car Team, I help design, manufacture, and race solar-powered vehicles, fueling my enthusiasm
+            for sustainable technology and innovation. Feel free to reach out with any questions!
           </p>
         </div>
 
