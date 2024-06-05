@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'C++',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/C++.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/c++icon.png?raw=true',
           status: 'Advanced'
         },
         {
