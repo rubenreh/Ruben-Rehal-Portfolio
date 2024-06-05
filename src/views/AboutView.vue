@@ -116,9 +116,9 @@ export default {
         },
         {
           id: 7,
-          name: 'KiCad',
+          name: 'MATLAB',
           imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
-          status: 'Advanced'
+          status: 'Intermediate'
         },
         {
           id: 8,
