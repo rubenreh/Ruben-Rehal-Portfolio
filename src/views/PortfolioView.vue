@@ -64,7 +64,7 @@ export default {
           imageUrl: 'hyrdate',
           status: 'This project is a water bottle smart device that is designed to ensure that users are consuming consistent and sufficient water levels per day.',
           tech: 'Digital Logic, C++, Electromagnetism',
-          github: 'https://drive.google.com/file/d/10kFqNJnurFl_qJkXdIQpG7X4TmP6q_WL/view?usp=sharing',
+          github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/smart-hydration-assistant?authuser=0'
         },
         {
