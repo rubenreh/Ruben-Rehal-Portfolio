@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: 'websi3',
+          imageUrl: 'newwebsite',
           status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
           tech: 'Netlify, GitHub',
           github: 'https://github.com/rubenreh',
@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'My Resume',
-          imageUrl: 'resume2',
+          imageUrl: 'newresume',
           status: 'Check out my resume!\n',
           tech: 'LaTeX Editor',
           github: 'null',
@@ -25,7 +25,7 @@ export default {
         {
           id: 3,
           name: 'Midnight Sun Design Team',
-          imageUrl: 'midsun2',
+          imageUrl: 'newmidsun',
           status: 'The Midnight Sun team designs and races solar-powered vehicles. My role focused on electrical systems and PCB design.',
           tech: 'Hardware Engineer, PCB Design',
           github: 'null',
@@ -34,7 +34,7 @@ export default {
         {
           id: 4,
           name: 'TMMC',
-          imageUrl: 'tmmc2',
+          imageUrl: 'newtmmc',
           status: 'Our team designed a chain-powered system with a bionic arm to automate sticker application in a manufacturing plant.',
           tech: 'Robotic Control, C, Inventor',
           github: 'null',
@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'Electric Vehicle Engineering',
-          imageUrl: 'websi3',
+          imageUrl: 'neweteam',
           status: 'I lead a student-run electric vehicle team designing, fundraising, and racing fully electric vehicles.',
           tech: 'Eng Design, CAD Design, Motor Control',
           github: 'null',
@@ -52,7 +52,7 @@ export default {
         {
           id: 6,
           name: 'Arduino Projects',
-          imageUrl: 'wall',
+          imageUrl: 'newarduino',
           status: 'I work on various projects (parallel and individual) using Arduinos and ArduinoIDE. Most of my projects are coded in C.',
           tech: 'Circuit Design, CAD Design, C',
           github: 'null',
@@ -70,7 +70,7 @@ export default {
         {
           id: 8,
           name: 'Programming Projects',
-          imageUrl: 'websi3',
+          imageUrl: 'newprogram',
           status: 'Nearly 3+ years of programming experience with C++, C, Java and Python (parallel and individual).',
           tech: 'C++, Java, C',
           github: 'null',
