@@ -81,7 +81,7 @@ export default {
         {
           id: 1,
           name: 'Solidworks',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/solidworks.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/solidworksicon.jpg?raw=true',
           status: 'Advanced'
         },
         {
@@ -93,31 +93,31 @@ export default {
         {
           id: 3,
           name: 'Inventor',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/inventor.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/inventoricon.png?raw=true',
           status: 'Advanced'
         },
         {
           id: 4,
           name: 'KiCad',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicadicon.png?raw=true',
           status: 'Advanced'
         },
         {
           id: 5,
           name: 'AutoCAD',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/autocadicon.png?raw=true',
           status: 'Advanced'
         },
         {
           id: 6,
           name: 'XCode',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/xcodeicon.png?raw=true',
           status: 'Intermediate'
         },
         {
           id: 7,
           name: 'MATLAB',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/matlabicon.png?raw=true',
           status: 'Intermediate'
         },
         {
@@ -129,13 +129,13 @@ export default {
         {
           id: 9,
           name: 'mockAPI',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/mockapiicon.png?raw=true',
           status: 'Intermediate'
         },
         {
           id: 10,
           name: 'Altium Designer',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/kicad.PNG?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/altiumicon.png?raw=true',
           status: 'Intermediate'
         },
         {
