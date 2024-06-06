@@ -180,7 +180,7 @@ export default {
             University of Waterloo. Where I recieved the Presidents and Mary and Jack Burnett Scholarship. I am on track to
             graduate in 2028 with a Bachelor of Applied Science degree.
           </p>
-          <p class="mb-3 fadein-left fadeins-2">
+          </p>
             &nbsp; &nbsp; &nbsp; My passion for sports, technology, and athletics drives me to balance
             my education with various extracurriculars. As a Hardware Engineer with the Midnight Sun Solar
             Rayce Car Team, I help design, manufacture, and race solar-powered vehicles, fueling my enthusiasm
