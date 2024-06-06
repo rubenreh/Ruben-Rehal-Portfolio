@@ -24,7 +24,7 @@ export default {
         },
         {
           id: 4,
-          name: 'Arduino',
+          name: 'Microcontrollers',
           imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/arduinoicon.png?raw=true',
           status: 'Advanced'
         },
@@ -48,7 +48,7 @@ export default {
         },
         {
           id: 8,
-          name: 'Linux',
+          name: 'UI Design',
           imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/linuxicon.png?raw=true',
           status: 'Intermediate'
         },
@@ -61,7 +61,7 @@ export default {
         {
           id: 10,
           name: 'Circuit Design',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/circuiticon.png?raw=true',
+          imageUrl: 'https://raw.githubusercontent.com/rubenreh/Ruben-Rehal-Portfolio/main/public/img/circuitnewicon.webp',
           status: 'Intermediate'
         },
         {
@@ -72,7 +72,7 @@ export default {
         },
         {
           id: 12,
-          name: 'Windows',
+          name: '3D Printing',
           imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/windowsicon.png?raw=true',
           status: 'Advanced'
         }
