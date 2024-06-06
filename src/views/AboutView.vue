@@ -184,7 +184,7 @@ export default {
             &nbsp; &nbsp; &nbsp; My passion for sports, technology, and athletics drives me to balance
             my education with various extracurriculars. As a Hardware Engineer with the Midnight Sun Solar
             Rayce Car Team, I help design, manufacture, and race solar-powered vehicles, fueling my enthusiasm
-            for sustainable technology and innovation. Feel free to reach out with any questions!
+            for sustainable technology and innovation. Feel free to reach out with any questions!                                                                                                       Contact me :                             r2rehal@uwaterloo.ca          (226) 501-5195
           </p>
         </div>
 
