@@ -10,6 +10,8 @@ ts<template>
         </button>
         <div class="flex md:order-2 fadein-bot">
           <a href="https://github.com/rubenreh"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
+        <div class="flex md:order-2 fadein-bot">
+          <a href="https://github.com/rubenreh"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
         </div>
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
           <ul class="flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">
