@@ -10,7 +10,7 @@ export default {
           imageUrl: 'newwebsite',
           status: 'I created my personal website to showcase my profile, skills, and projects, and to experiment with new technologies.',
           tech: 'Netlify, GitHub',
-          github: 'https://github.com/rubenreh',
+          github: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio',
           demo: 'https://rubenrehal.netlify.app/'
         },
         {
