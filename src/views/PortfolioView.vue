@@ -78,7 +78,7 @@ export default {
         },
         {
           id: 9,
-          name: 'Programming Projects',
+          name: 'VHDL Projects',
           imageUrl: 'vhdl',
           status: 'I am currently working on VHDL projects using Quartus Prime software on an FPGA Board, focusing on developing efficient and innovative digital designs.',
           tech: 'VHDL, FPGA Boards, Quartus Prime',
