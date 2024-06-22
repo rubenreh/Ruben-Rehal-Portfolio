@@ -1,0 +1,39 @@
+
+[
+  {
+    "title": "Mr. Health & Fitness 2024",
+    "desc": "I helped support the Be Positive Foundation's mission to fight against childhood cancer by competing in Mr. Health & Fitness 2024, achieving 15th place in my group!",
+    "slug": "excepturi-architecto-quos",
+    "image": "https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/healthfitlogo.png?raw=true",
+    "date": "June 9, 2024",
+    "content": "Content 1",
+    "id": "1"
+  },
+  {
+    "title": "First Co-op",
+    "desc": "Im excited to share that I will be starting my first Co-op today for Product Managment Engineering at Red Leaf IT Systems.",
+    "slug": "excepturi-architecto-quos",
+    "image": "https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/redleafllogo.PNG?raw=true",
+    "date": "May 6, 2024",
+    "content": "Content 2",
+    "id": "2"
+  },
+  {
+    "title": "Entering Second Year!",
+    "desc": "I am proud to say that I have successfully passed my first year of Computer Engineering.",
+    "slug": "excepturi-architecto-quos",
+    "image": "https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/waterlooeng.PNG?raw=true",
+    "date": "May 4, 2024",
+    "content": "Content 3",
+    "id": "3"
+  },
+  {
+    "title": "Automated Garbage Can",
+    "desc": "Just discovered an old Arduino project I made for people with disabilities. Check it out!",
+    "slug": "excepturi-architecto-quos",
+    "image": "https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/garbagecanblog.PNG?raw=true",
+    "date": "April 21, 2023",
+    "content": "Content 4",
+    "id": "4"
+  }
+]
