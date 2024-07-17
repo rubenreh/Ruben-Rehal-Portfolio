@@ -36,27 +36,27 @@ export default {
           name: 'Programming Projects',
           imageUrl: 'newprogram',
           status: 'Nearly 3+ years of programming experience with C++, C, Java and Python (parallel and individual).',
-          tech: 'C++, Java, C',
+          tech: 'C++, Java, Python',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/programming-projects?authuser=0'
         },
         {
           id: 5,
+          name: 'Machine Learning Projects',
+          imageUrl: 'newprogram',
+          status: 'I am currently diving into the fascinating world of machine learning, focusing on projects that involve hand tracking and object detection. As a beginner, I am eager to learn and apply various algorithms to solve real-world problems, continuously expanding my skills in this dynamic field.',
+          tech: 'Python, C++',
+          github: 'null',
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/programming-projects?authuser=0'
+        },
+        {
+          id: 6,
           name: 'Arduino Projects',
           imageUrl: 'newarduino',
           status: 'I work on various projects (parallel and individual) using Arduinos and ArduinoIDE. Most of my projects are coded in C.',
           tech: 'Circuit Design, CAD Design, C',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/arduino-projects?authuser=0'
-        },
-        {
-          id: 6,
-          name: 'VHDL Projects',
-          imageUrl: 'vhdl',
-          status: 'My VHDL projects use Quartus Prime software on an FPGA Board, focusing on developing efficient and innovative digital designs.',
-          tech: 'VHDL, FPGA Boards, Quartus Prime',
-          github: 'null',
-          demo: 'https://sites.google.com/d/1xhvAeqoKLYCynDX1rF0Hj0jsygGUxAdA/p/1nyMLMNM0DzLwAMsvOJQUV4mVnlQle1pl/edit'
         },
         {
           id: 7,
@@ -69,13 +69,23 @@ export default {
         },
         {
           id: 8,
+          name: 'VHDL Projects',
+          imageUrl: 'vhdl',
+          status: 'My VHDL projects use Quartus Prime software on an FPGA Board, focusing on developing efficient and innovative digital designs.',
+          tech: 'VHDL, FPGA Boards, Quartus Prime',
+          github: 'null',
+          demo: 'https://sites.google.com/d/1xhvAeqoKLYCynDX1rF0Hj0jsygGUxAdA/p/1nyMLMNM0DzLwAMsvOJQUV4mVnlQle1pl/edit'
+        },
+        {
+          id: 9,
           name: 'TMMC',
           imageUrl: 'newtmmc',
           status: 'Our team designed a chain-powered system with a bionic arm to automate sticker application in a manufacturing plant.',
           tech: 'Robotic Control, C, Inventor',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/tmmc-competition?authuser=0'
-        },
+        }
+        /*
         {
           id: 9,
           name: 'Electric Vehicle Engineering',
@@ -85,6 +95,7 @@ export default {
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/electric-vehicle-engineering-team?authuser=0'
         }
+        */
       ]
     };
   }
