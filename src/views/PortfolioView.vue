@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'Machine Learning Projects',
-          imageUrl: 'newprogram',
+          imageUrl: 'handtracking',
           status: 'I am currently diving into the fascinating world of machine learning, focusing on projects that involve hand tracking and object detection. As a beginner, I am eager to learn and apply various algorithms to solve real-world problems, continuously expanding my skills in this dynamic field.',
           tech: 'Python, C++',
           github: 'null',
