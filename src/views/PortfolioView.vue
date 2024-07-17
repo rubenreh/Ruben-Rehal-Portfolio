@@ -44,7 +44,7 @@ export default {
           id: 5,
           name: 'Machine Learning Projects',
           imageUrl: 'handtracking',
-          status: 'Exploring machine learning, I focus on hand tracking and object detection projects. As a beginner, I am excited to learn and apply new algorithms to real-world problems.',
+          status: 'Currently exploring machine learning. As a beginner, I am excited to learn and apply new algorithms to real-world problems.',
           tech: 'Python, C++',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/programming-projects?authuser=0'
