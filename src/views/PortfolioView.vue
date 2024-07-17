@@ -44,7 +44,7 @@ export default {
           id: 5,
           name: 'Machine Learning Projects',
           imageUrl: 'handtracking',
-          status: 'I am currently diving into the fascinating world of machine learning, focusing on projects that involve hand tracking and object detection. As a beginner, I am eager to learn and apply various algorithms to solve real-world problems, continuously expanding my skills in this dynamic field.',
+          status: 'Exploring machine learning, I focus on hand tracking and object detection projects. As a beginner, I am excited to learn and apply new algorithms to real-world problems.',
           tech: 'Python, C++',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/programming-projects?authuser=0'
