@@ -33,6 +33,15 @@ export default {
         },
         {
           id: 4,
+          name: 'Programming Projects',
+          imageUrl: 'newprogram',
+          status: 'Nearly 3+ years of programming experience with C++, C, Java and Python (parallel and individual).',
+          tech: 'C++, Java, C',
+          github: 'null',
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/programming-projects?authuser=0'
+        },
+        {
+          id: 5,
           name: 'TMMC',
           imageUrl: 'newtmmc',
           status: 'Our team designed a chain-powered system with a bionic arm to automate sticker application in a manufacturing plant.',
@@ -41,7 +50,7 @@ export default {
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/tmmc-competition?authuser=0'
         },
         {
-          id: 5,
+          id: 6,
           name: 'Electric Vehicle Engineering',
           imageUrl: 'neweteam',
           status: 'I lead a student-run electric vehicle team designing, fundraising, and racing fully electric vehicles.',
@@ -50,7 +59,7 @@ export default {
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/electric-vehicle-engineering-team?authuser=0'
         },
         {
-          id: 6,
+          id: 7,
           name: 'Arduino Projects',
           imageUrl: 'newarduino',
           status: 'I work on various projects (parallel and individual) using Arduinos and ArduinoIDE. Most of my projects are coded in C.',
@@ -59,22 +68,13 @@ export default {
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/arduino-projects?authuser=0'
         },
         {
-          id: 7,
+          id: 8,
           name: 'Smart Hydration Assistant',
           imageUrl: 'hyrdate',
           status: 'This project is a water bottle smart device that is designed to ensure that users are consuming consistent and sufficient water levels per day.',
           tech: 'Digital Logic, C++, Electromagnetism',
           github: 'null',
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/smart-hydration-assistant?authuser=0'
-        },
-        {
-          id: 8,
-          name: 'Programming Projects',
-          imageUrl: 'newprogram',
-          status: 'Nearly 3+ years of programming experience with C++, C, Java and Python (parallel and individual).',
-          tech: 'C++, Java, C',
-          github: 'null',
-          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/programming-projects?authuser=0'
         },
         {
           id: 9,
