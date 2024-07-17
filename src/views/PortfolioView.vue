@@ -42,24 +42,6 @@ export default {
         },
         {
           id: 5,
-          name: 'TMMC',
-          imageUrl: 'newtmmc',
-          status: 'Our team designed a chain-powered system with a bionic arm to automate sticker application in a manufacturing plant.',
-          tech: 'Robotic Control, C, Inventor',
-          github: 'null',
-          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/tmmc-competition?authuser=0'
-        },
-        {
-          id: 6,
-          name: 'Electric Vehicle Engineering',
-          imageUrl: 'neweteam',
-          status: 'I lead a student-run electric vehicle team designing, fundraising, and racing fully electric vehicles.',
-          tech: 'Eng Design, CAD Design, Motor Control',
-          github: 'null',
-          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/electric-vehicle-engineering-team?authuser=0'
-        },
-        {
-          id: 7,
           name: 'Arduino Projects',
           imageUrl: 'newarduino',
           status: 'I work on various projects (parallel and individual) using Arduinos and ArduinoIDE. Most of my projects are coded in C.',
@@ -68,7 +50,16 @@ export default {
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/arduino-projects?authuser=0'
         },
         {
-          id: 8,
+          id: 6,
+          name: 'VHDL Projects',
+          imageUrl: 'vhdl',
+          status: 'My VHDL projects use Quartus Prime software on an FPGA Board, focusing on developing efficient and innovative digital designs.',
+          tech: 'VHDL, FPGA Boards, Quartus Prime',
+          github: 'null',
+          demo: 'https://sites.google.com/d/1xhvAeqoKLYCynDX1rF0Hj0jsygGUxAdA/p/1nyMLMNM0DzLwAMsvOJQUV4mVnlQle1pl/edit'
+        },
+        {
+          id: 7,
           name: 'Smart Hydration Assistant',
           imageUrl: 'hyrdate',
           status: 'This project is a water bottle smart device that is designed to ensure that users are consuming consistent and sufficient water levels per day.',
@@ -77,13 +68,22 @@ export default {
           demo: 'https://sites.google.com/view/ruben-rehal-portfolio/smart-hydration-assistant?authuser=0'
         },
         {
-          id: 9,
-          name: 'VHDL Projects',
-          imageUrl: 'vhdl',
-          status: 'My VHDL projects use Quartus Prime software on an FPGA Board, focusing on developing efficient and innovative digital designs.',
-          tech: 'VHDL, FPGA Boards, Quartus Prime',
+          id: 8,
+          name: 'TMMC',
+          imageUrl: 'newtmmc',
+          status: 'Our team designed a chain-powered system with a bionic arm to automate sticker application in a manufacturing plant.',
+          tech: 'Robotic Control, C, Inventor',
           github: 'null',
-          demo: 'https://sites.google.com/d/1xhvAeqoKLYCynDX1rF0Hj0jsygGUxAdA/p/1nyMLMNM0DzLwAMsvOJQUV4mVnlQle1pl/edit'
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/tmmc-competition?authuser=0'
+        },
+        {
+          id: 9,
+          name: 'Electric Vehicle Engineering',
+          imageUrl: 'neweteam',
+          status: 'I lead a student-run electric vehicle team designing, fundraising, and racing fully electric vehicles.',
+          tech: 'Eng Design, CAD Design, Motor Control',
+          github: 'null',
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/electric-vehicle-engineering-team?authuser=0'
         }
       ]
     };
