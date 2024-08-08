@@ -47,7 +47,7 @@ export default {
           status: 'Currently exploring machine learning. As a beginner, I am excited to learn and apply new algorithms to real-world problems.',
           tech: 'Python, C++',
           github: 'null',
-          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/programming-projects?authuser=0'
+          demo: 'https://sites.google.com/view/ruben-rehal-portfolio/machine-learning-projects?authuser=0'
         },
         {
           id: 6,
