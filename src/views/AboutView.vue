@@ -186,7 +186,7 @@ export default {
             Rayce Car Team, I help design, manufacture, and race solar-powered vehicles, fueling my enthusiasm
             for sustainable technology and innovation. Feel free to reach out with any questions! 
           </p>
-          Contact me : r2rehal@uwaterloo.ca   |   (226) 501-5195
+          Contact me : r2rehal@uwaterloo.ca
         </div>
 
       </section>
