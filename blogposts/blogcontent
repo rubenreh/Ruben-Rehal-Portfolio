@@ -3,13 +3,22 @@
 
 [
   {
+    "title": "Hand Hero",
+    "desc": "Check out my new project! An innovative device designed to empower individuals with limited hand mobility.",
+    "slug": "excepturi-architecto-quos",
+    "image": "https://github.com/rubenreh/Hand-Hero/blob/main/HandHeroLogo.png?raw=true",
+    "date": "August 2, 2024",
+    "content": "Content 1",
+    "id": "1"
+  },
+  {
     "title": "Mr. Health & Fitness 2024",
-    "desc": "I helped support the Be Positive Foundation's mission to fight against childhood cancer by competing in Mr. Health & Fitness 2024, achieving 15th place in my group!",
+    "desc": "I helped support the Be Positive Foundation's mission to fight against childhood cancer by competing in Mr. Health & Fitness 2024, achieving 15th place overall!",
     "slug": "excepturi-architecto-quos",
     "image": "https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/healthfitlogo.png?raw=true",
     "date": "June 9, 2024",
-    "content": "Content 1",
-    "id": "1"
+    "content": "Content 2",
+    "id": "2"
   },
   {
     "title": "First Co-op",
@@ -17,8 +26,8 @@
     "slug": "excepturi-architecto-quos",
     "image": "https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/redleafllogo.PNG?raw=true",
     "date": "May 6, 2024",
-    "content": "Content 2",
-    "id": "2"
+    "content": "Content 3",
+    "id": "3"
   },
   {
     "title": "Entering Second Year!",
@@ -26,15 +35,6 @@
     "slug": "excepturi-architecto-quos",
     "image": "https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/waterlooeng.PNG?raw=true",
     "date": "May 4, 2024",
-    "content": "Content 3",
-    "id": "3"
-  },
-  {
-    "title": "Automated Garbage Can",
-    "desc": "Just discovered an old Arduino project I made for people with disabilities. Check it out!",
-    "slug": "excepturi-architecto-quos",
-    "image": "https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/garbagecanblog.PNG?raw=true",
-    "date": "April 21, 2023",
     "content": "Content 4",
     "id": "4"
   }
