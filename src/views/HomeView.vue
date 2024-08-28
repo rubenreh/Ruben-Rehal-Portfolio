@@ -35,7 +35,7 @@ export default {
   name: 'HomeView',
   data() {
     return {
-      toRotate: ["Computer Engineering Undergrad", "University of Waterloo", "Product Managment Intern"],
+      toRotate: ["Computer Engineering Undergrad", "Looking for Winter 2025 Internships", "University of Waterloo"],
       period: 2000,
       txt: '',
       loopNum: 0,
