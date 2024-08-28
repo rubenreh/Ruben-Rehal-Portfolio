@@ -187,6 +187,8 @@ export default {
             for sustainable technology and innovation. Feel free to reach out with any questions! 
           </p>
           Contact me : r2rehal@uwaterloo.ca
+          </p>
+          <a href="https://www.linkedin.com/in/rubenrehal" target="_blank" class="text-amber-200 hover:text-amber-400">www.linkedin.com/in/rubenrehal</a>
         </div>
 
       </section>
