@@ -20,7 +20,7 @@ export default {
           status: 'I am a passionate and driven Computer Engineering student at the University of Waterloo. Check out my resume!',
           tech: 'LaTeX Editor',
           github: 'null',
-          demo: 'https://drive.google.com/file/d/1DEFNr7nU_E2UKByCXaVVijD69nkhhQwu/view?usp=sharing'
+          demo: 'https://drive.google.com/file/d/1CWV34gIaCV_azbKbol9r_FbU11qBlL1e/view?usp=sharing'
         },
         {
           id: 3,
