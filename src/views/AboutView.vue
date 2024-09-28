@@ -72,9 +72,9 @@ export default {
         },
         {
           id: 12,
-          name: '3D Printing',
+          name: 'RISC-V ISA',
           imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/3dicon.png?raw=true',
-          status: 'Advanced'
+          status: 'Intermediate'
         }
       ],
       tools: [
@@ -140,9 +140,9 @@ export default {
         },
         {
           id: 11,
-          name: 'Windows',
+          name: 'Assembly',
           imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/windowsicon.png?raw=true',
-          status: 'Advanced'
+          status: 'Intermediate'
         },
         {
           id: 12,
