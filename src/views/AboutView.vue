@@ -73,7 +73,7 @@ export default {
         {
           id: 12,
           name: 'RISC-V ISA',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/3dicon.png?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/riscV.png?raw=true',
           status: 'Intermediate'
         }
       ],
@@ -141,7 +141,7 @@ export default {
         {
           id: 11,
           name: 'Assembly',
-          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/windowsicon.png?raw=true',
+          imageUrl: 'https://github.com/rubenreh/Ruben-Rehal-Portfolio/blob/main/public/img/Assembly.png?raw=true',
           status: 'Intermediate'
         },
         {
